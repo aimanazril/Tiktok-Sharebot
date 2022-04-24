@@ -1,0 +1,9 @@
+{
+  "name": "tiktokbut",
+  "scripts": {},
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": [],
+  "stack": "heroku-20"
+}
